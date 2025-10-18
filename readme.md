@@ -1,18 +1,38 @@
-<h1 align="center">Hi 👋, I'm Amarnath K</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+👨‍💻 Amarnath K — Full-Stack Developer Portfolio
+Welcome to my GitHub showcase. I'm Amarnath, a full-stack developer focused on building secure, scalable, and production-ready applications. This repo is a curated collection of my work, technical strengths, and development philosophy.
 
-- 🌱 I’m currently learning **AWS, Azure**
+🧠 About Me
+- 🔧 Backend specialist: Node.js, Express.js, Mongoose, JWT
+- 🧱 Architect of modular MVC systems with clean separation of concerns
+- 🔐 Security-first mindset: password hashing, token auth, role-based access
+- 🧪 Methodical debugger: environment setup, deployment, error diagnostics
+- ⚛️ Frontend integration: React, Redux Toolkit, TailwindCSS, Vite
+- 📐 Responsive UI design with scalable layouts and breakpoints
+- 📊 Algorithmic thinker: clean solutions to classic coding challenges
 
-- 👯 I’m looking to collaborate on **LMS**
+  
+📂 Featured Projects
+- Project       |  Stack                                         |   Highlights
+- RecipeHub     |  Node.js, Express, MongoDB, React, Tailwind    |   Social features, video embedding, meal planner
 
-- 💬 Ask me about **Things comes under FSD**
 
-- 📫 How to reach me **amarmagesh717@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/amar-nath-4b75571b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/amar-nath-4b75571b7" height="30" width="40" /></a>
-</p>
+🛠️ Skills & Tools
+- Languages: JavaScript, TypeScript
+- Backend: Node.js, Express.js, MongoDB, Mongoose
+- Frontend: React, Redux Toolkit, TailwindCSS, Vite
+- Auth: JWT, bcrypt, SendGrid, Resend
+- DevOps: Render, Netlify, GitHub Actions
+- Algorithms: Prime checks, palindromes, power-of-two, string analysis
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+  
+📜 Philosophy
+“Clarity, modularity, and maintainability are non-negotiable.”
+
+I believe in defensive coding, reproducible output, and collaborative iteration. Every commit reflects a step toward production readiness.
+
+
+📬 Contact
+- GitHub: github.com/amarnath-k98
+- LinkedIn: www.linkedin.com/in/amar-nath-4b75571b7
+- Email: amarmagesh717@gmail.com
