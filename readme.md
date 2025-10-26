@@ -34,5 +34,5 @@ I believe in defensive coding, reproducible output, and collaborative iteration.
 
 📬 Contact
 - GitHub: github.com/amarnath-k98
-- LinkedIn: www.linkedin.com/in/amar-nath-4b75571b7
+- LinkedIn: www.linkedin.com/in/amarnath-profile
 - Email: amarmagesh717@gmail.com
